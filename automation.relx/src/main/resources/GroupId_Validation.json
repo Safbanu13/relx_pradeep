@@ -1,0 +1,13 @@
+{
+  "references": "any",
+  "name": "string",
+  "guid": "string",
+  "created": "string",
+  "modified": "string",
+  "is_active": "boolean",
+  "role": "string",
+  "organization_guid": "string",
+  "bsds": [
+    "string"
+  ]
+}
